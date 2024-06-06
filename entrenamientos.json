@@ -1,0 +1,29 @@
+{
+    "entrenamientos": [
+        {
+            "titulo": "Entrenamiento de Fuerza",
+            "descripcion": "Un programa de entrenamiento diseñado para aumentar la fuerza muscular.",
+            "duracion": "60 minutos"
+        },
+        {
+            "titulo": "Entrenamiento Cardio",
+            "descripcion": "Una sesión de entrenamiento cardiovascular para mejorar la resistencia.",
+            "duracion": "45 minutos"
+        },
+        {
+            "titulo": "Yoga para Principiantes",
+            "descripcion": "Una clase de yoga suave ideal para principiantes.",
+            "duracion": "30 minutos"
+        },
+        {
+            "titulo": "HIIT Avanzado",
+            "descripcion": "Entrenamiento de intervalos de alta intensidad para quemar calorías rápidamente.",
+            "duracion": "20 minutos"
+        },
+        {
+            "titulo": "Pilates",
+            "descripcion": "Ejercicios de pilates para mejorar la flexibilidad y el equilibrio.",
+            "duracion": "50 minutos"
+        }
+    ]
+}
