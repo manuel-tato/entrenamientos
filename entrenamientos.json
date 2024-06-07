@@ -1,29 +1,55 @@
 {
     "entrenamientos": [
         {
-            "titulo": "Entrenamiento de Fuerza",
-            "descripcion": "Un programa de entrenamiento diseñado para aumentar la fuerza muscular.",
-            "duracion": "60 minutos"
+            "titulo": "Pases para aprender a orientar el cuerpo.",
+            "descripcion": "Ejercicio de pase para habituar al jugador a buscar los perfiles y la orientación corporal. Esto nos permitirá encontrar una mejor posición y darle mayor velocidad al juego.",
+            "duracion": "15 minutos"
         },
         {
-            "titulo": "Entrenamiento Cardio",
-            "descripcion": "Una sesión de entrenamiento cardiovascular para mejorar la resistencia.",
-            "duracion": "45 minutos"
+            "titulo": "Calentamiento",
+            "descripcion": "Se hace una pequeña carrera y a continuación comienzan a calentar articulaciones de arriba a abajo.",
+            "duracion": "15 minutos"
         },
         {
-            "titulo": "Yoga para Principiantes",
-            "descripcion": "Una clase de yoga suave ideal para principiantes.",
-            "duracion": "30 minutos"
+            "titulo": "Tres en raya",
+            "descripcion": "9 aros situados en el suelo simulando el tablero, cada equipo tiene tres petos, y se van colocando en los aros cuando el jugador que colocó anteriormente les choca la mano.",
+            "duracion": "15 minutos"
         },
         {
-            "titulo": "HIIT Avanzado",
-            "descripcion": "Entrenamiento de intervalos de alta intensidad para quemar calorías rápidamente.",
+            "titulo": "Rondo",
+            "descripcion": "Todo el equipo forma un círculo en el círculo central y se van pasando el balón, evitando que los 3 jugadores de el centro lo roben.",
+            "duracion": "10 minutos"
+        },
+        
+        {
+            "titulo": "1vs1",
+            "descripcion": "Se colocan dos porterías pequeñas, y un jugador sale de detrás de la portería y disputan el balón en el centro, haciendo 1vs1 hasta que uno marqué o pasen 20 segundos",
             "duracion": "20 minutos"
         },
         {
-            "titulo": "Pilates",
-            "descripcion": "Ejercicios de pilates para mejorar la flexibilidad y el equilibrio.",
-            "duracion": "50 minutos"
+            "titulo": "2vs1",
+            "descripcion": "Se colocan una portería pequeña,salen 2 jugadores con balón para marcar y otro jugador a defender para evitarlo.",
+            "duracion": "20 minutos"
+        },
+        {
+            "titulo": "Circuito de fuerza",
+            "descripcion": "Hay varios puestos, en los que se haacen flexiones, sentadillas con peso, elevaciones laterales, press banca, plancha, y los jugadores al terminar el tiempo en un puesto pasan al siguiente hasta recorrerlos todos.",
+            "duracion": "40 minutos"
+        },
+        {
+            "titulo": "Circuito de resistencia",
+            "descripcion": "Los jugadores se situan en el corner, y recorren las líneas del área, banda y centro del campo, en donde las líneas horizontales las recorren a sprint y las verticales a trote.",
+            "duracion": "15 minutos"
+        },
+        {
+            "titulo": "Posesión",
+            "descripcion": "Se dividen los jugadores en dos equipos, en donde ambos equipos intentarán tener la pelota el maximo de tiempo posible, pudiendo fijar un limite máximo de toques al balón.",
+            "duracion": "20 minutos"
+        },
+        {
+            "titulo": "Partidillo",
+            "descripcion": "Se dividen los jugadores en dos equipos, en donde ambos equipos disputan un partido, simulando uno real.",
+            "duracion": "40 minutos"
         }
     ]
 }
