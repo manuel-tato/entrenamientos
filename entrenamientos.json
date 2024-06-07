@@ -20,7 +20,16 @@
             "descripcion": "Todo el equipo forma un círculo en el círculo central y se van pasando el balón, evitando que los 3 jugadores de el centro lo roben.",
             "duracion": "10 minutos"
         },
-        
+        {
+            "titulo": "Pases en parejas",
+            "descripcion": "Ejercicio de pases cortos en parejas para mejorar la precisión y el control del balón.",
+            "duracion": "15 minutos"
+        },
+        {
+            "titulo": "Tiro a puerta",
+            "descripcion": "Práctica de tiros a puerta desde diferentes ángulos y distancias para mejorar la precisión y la potencia de disparo.",
+            "duracion": "20 minutos"
+        },
         {
             "titulo": "1vs1",
             "descripcion": "Se colocan dos porterías pequeñas, y un jugador sale de detrás de la portería y disputan el balón en el centro, haciendo 1vs1 hasta que uno marqué o pasen 20 segundos",
@@ -32,8 +41,18 @@
             "duracion": "20 minutos"
         },
         {
+            "titulo": "Juegos de posición",
+            "descripcion": "Ejercicios en los que se trabaja la ocupación de los espacios y el movimiento sin balón, enfocados en la comprensión táctica.",
+            "duracion": "20 minutos"
+        },
+        {
+            "titulo": "Jugadas ensayadas",
+            "descripcion": "Se revisa y práctica las jugadas ensayadas a la hora de sacar faltas, corners o cualquier tipo de saque a balón parado.",
+            "duracion": "20 minutos"
+        },
+        {
             "titulo": "Circuito de fuerza",
-            "descripcion": "Hay varios puestos, en los que se haacen flexiones, sentadillas con peso, elevaciones laterales, press banca, plancha, y los jugadores al terminar el tiempo en un puesto pasan al siguiente hasta recorrerlos todos.",
+            "descripcion": "Hay varios puestos, en los que se hacen flexiones, sentadillas con peso, elevaciones laterales, press banca, plancha, y los jugadores al terminar el tiempo en un puesto pasan al siguiente hasta recorrerlos todos.",
             "duracion": "40 minutos"
         },
         {
@@ -45,6 +64,21 @@
             "titulo": "Posesión",
             "descripcion": "Se dividen los jugadores en dos equipos, en donde ambos equipos intentarán tener la pelota el maximo de tiempo posible, pudiendo fijar un limite máximo de toques al balón.",
             "duracion": "20 minutos"
+        },
+        {
+            "titulo": "Ejercicio de regate",
+            "descripcion": "Dribbling entre conos dispuestos en diferentes patrones para mejorar el control del balón y la agilidad.",
+            "duracion": "10 minutos"
+        },
+        {
+            "titulo": "Partido en espacios reducidos",
+            "descripcion": "Un partido de fútbol en un área más pequeña para mejorar la toma de decisiones rápidas y la habilidad de juego bajo presión.",
+            "duracion": "25 minutos"
+        },
+        {
+            "titulo": "Enfriamiento y Estiramiento",
+            "descripcion": "Serie de estiramientos estáticos y ejercicios de enfriamiento para ayudar a la recuperación muscular y prevenir lesiones.",
+            "duracion": "10 minutos"
         },
         {
             "titulo": "Partidillo",
